@@ -1,5 +1,9 @@
+![alt text](image.png)
+
 # Imersão Dev Alura + Google Gemini
 
-## Javascript e Google Gemini
+## Imersão Dev com Google Gemini
 
-#imersao-dev-google-gemini
+- Aula 01: Iniciando o Projeto com HTML e CSS
+- Aula 02: Estilizando o projeto com CSS
+
